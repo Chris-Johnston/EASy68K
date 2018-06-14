@@ -1,9 +1,23 @@
-*                               EASy68K 
-* Editor, Assembler, Simulator, S-Record/Binary utility for 68000 microprocessor
+# EASy68K
+Editor, Assembler, Simulator, S-Record/Binary utility for 68000 microprocessor
+
+### Versions
+
+Editor/Assembler
+v5.16.01 March-15-2018
+
+Simulator
+v5.16.01 March-15-2018
+
+EASy68K Help
+v5.16.01 March-15-2018
+
+EASyBIN
+v2.5.0 Aug-14-2017
 
 Editor written by Tim Larson
 Original Assembler code by Paul McKee
-Assembler code modified by Charles Kelly 
+Assembler code modified by Charles Kelly
 
 Original Simulator code by Paul McKee
 Simulator GUI by Charles Kelly
@@ -24,7 +38,7 @@ This package contains everything you need to create and run 68000 assembly langu
 
 Please see help for full contact information, bug reports, downloading and credits.
 
-Several example programs are included in the Examples folder more examples are available on the web site. 
+Several example programs are included in the Examples folder more examples are available on the web site.
 
 The file extensions used by EASy68k are:
     .X68  68000 source code created with Edit68k
@@ -37,4 +51,3 @@ Enjoy.
 Charles Kelly
 
 www.easy68k.com
-
